@@ -1,0 +1,286 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:1-9:12
+MERGED from [:mylibrary] D:\Unity Project\UnityAndroidPackage\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-71:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] D:\Android Studio\jre\caches\transforms-2\files-2.1\eb78d98bc77e12182e6c9865d2d04907\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\02a0b5591867b269bf90099dda756d74\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\7c3616f46c233483189f28c6aecc1bf8\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\aa102c73461ceaead80426ed3767173f\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\bc9e4441cb0d35d24fb33db1292b83cf\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\6dd5acce2e1c39457e97c6a540b902b4\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\c6f6f11813f3ec2da92459396215a744\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\7812a08fd4bf4624084090ee58b6a21c\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\237db0b5c3adb38854df6d16d881ad02\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\9a6b712a80d4975cb5a9b309b527e950\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\babc3655dda648c8281c5389c3b34623\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\16708a4b23eb1f0a10054ff774dd4c6b\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\a885ef9aa38df6be665a3ee44c1024dd\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\82ef1f2eb418706c0dc6e994f07498d6\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\7d223bdf7b3559590bff916d5265ef74\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\33c175469499d369484821985d0455bd\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\2946dbff920a3086769a6d1e9c34cc83\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\f4f4effee3b19ca333d784babd2ded97\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\9d2defd0a735151083850e3e03cf1f99\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\8dbf37106270662bcf8910d884c3388d\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\f9b4407e2d6f9e6d73e2e41e2d02eb35\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\beda9f3c18d073b7eea7ef46b9ad839a\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\92e18467eefd23a76627e1fe83bf1e05\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\7f446c61d119859cc910274a8162160c\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\8ce8513e0c0ed0e577ea55f824679bf4\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\d7fd0a6b82dbac033f938c982be39bd3\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:70-101
+		INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:1-9:12
+		INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:102-148
+	android:versionCode
+		INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:1-9:12
+		INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:2:149-189
+supports-screens
+ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:4:3-6:17
+MERGED from [:mylibrary] D:\Unity Project\UnityAndroidPackage\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:mylibrary] D:\Unity Project\UnityAndroidPackage\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-69:19
+MERGED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-69:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] D:\Android Studio\jre\caches\transforms-2\files-2.1\eb78d98bc77e12182e6c9865d2d04907\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] D:\Android Studio\jre\caches\transforms-2\files-2.1\eb78d98bc77e12182e6c9865d2d04907\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\33c175469499d369484821985d0455bd\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\33c175469499d369484821985d0455bd\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:18-50
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:4:49-80
+	android:theme
+		ADDED from [:mylibrary] D:\Unity Project\UnityAndroidPackage\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-53
+	android:name
+		ADDED from [:mylibrary] D:\Unity Project\UnityAndroidPackage\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-61
+meta-data#unity.builder
+ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:5:5-79
+	android:value
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:5:45-76
+	android:name
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:5:16-44
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:7:3-77
+MERGED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-79
+MERGED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:7:20-74
+uses-permission#android.permission.INTERNET
+ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:8:3-65
+MERGED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-67
+MERGED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml:8:20-62
+uses-sdk
+INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+MERGED from [:mylibrary] D:\Unity Project\UnityAndroidPackage\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:mylibrary] D:\Unity Project\UnityAndroidPackage\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] D:\Android Studio\jre\caches\transforms-2\files-2.1\eb78d98bc77e12182e6c9865d2d04907\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] D:\Android Studio\jre\caches\transforms-2\files-2.1\eb78d98bc77e12182e6c9865d2d04907\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\02a0b5591867b269bf90099dda756d74\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\02a0b5591867b269bf90099dda756d74\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\7c3616f46c233483189f28c6aecc1bf8\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\7c3616f46c233483189f28c6aecc1bf8\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\aa102c73461ceaead80426ed3767173f\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\aa102c73461ceaead80426ed3767173f\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\bc9e4441cb0d35d24fb33db1292b83cf\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\bc9e4441cb0d35d24fb33db1292b83cf\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\6dd5acce2e1c39457e97c6a540b902b4\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\6dd5acce2e1c39457e97c6a540b902b4\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\c6f6f11813f3ec2da92459396215a744\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\c6f6f11813f3ec2da92459396215a744\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\7812a08fd4bf4624084090ee58b6a21c\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\7812a08fd4bf4624084090ee58b6a21c\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\237db0b5c3adb38854df6d16d881ad02\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\237db0b5c3adb38854df6d16d881ad02\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\9a6b712a80d4975cb5a9b309b527e950\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\9a6b712a80d4975cb5a9b309b527e950\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\babc3655dda648c8281c5389c3b34623\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\babc3655dda648c8281c5389c3b34623\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\16708a4b23eb1f0a10054ff774dd4c6b\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\16708a4b23eb1f0a10054ff774dd4c6b\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\a885ef9aa38df6be665a3ee44c1024dd\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\a885ef9aa38df6be665a3ee44c1024dd\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\82ef1f2eb418706c0dc6e994f07498d6\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\82ef1f2eb418706c0dc6e994f07498d6\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\7d223bdf7b3559590bff916d5265ef74\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\7d223bdf7b3559590bff916d5265ef74\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\33c175469499d369484821985d0455bd\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\33c175469499d369484821985d0455bd\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\2946dbff920a3086769a6d1e9c34cc83\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\2946dbff920a3086769a6d1e9c34cc83\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\f4f4effee3b19ca333d784babd2ded97\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\f4f4effee3b19ca333d784babd2ded97\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\9d2defd0a735151083850e3e03cf1f99\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\9d2defd0a735151083850e3e03cf1f99\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\8dbf37106270662bcf8910d884c3388d\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\8dbf37106270662bcf8910d884c3388d\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\f9b4407e2d6f9e6d73e2e41e2d02eb35\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\f9b4407e2d6f9e6d73e2e41e2d02eb35\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\beda9f3c18d073b7eea7ef46b9ad839a\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\beda9f3c18d073b7eea7ef46b9ad839a\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\92e18467eefd23a76627e1fe83bf1e05\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\92e18467eefd23a76627e1fe83bf1e05\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\7f446c61d119859cc910274a8162160c\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\7f446c61d119859cc910274a8162160c\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\8ce8513e0c0ed0e577ea55f824679bf4\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\Android Studio\jre\caches\transforms-2\files-2.1\8ce8513e0c0ed0e577ea55f824679bf4\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\d7fd0a6b82dbac033f938c982be39bd3\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\Android Studio\jre\caches\transforms-2\files-2.1\d7fd0a6b82dbac033f938c982be39bd3\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity Project\UnityAndroidPackage\launcher\src\main\AndroidManifest.xml
+activity#com.example.mylibrary.LocalActivity
+ADDED from [:mylibrary] D:\Unity Project\UnityAndroidPackage\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from [:mylibrary] D:\Unity Project\UnityAndroidPackage\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:mylibrary] D:\Unity Project\UnityAndroidPackage\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-63
+uses-feature#0x00030000
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-52:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-48
+	android:exported
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-194
+	android:theme
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-54
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:13-48:40
+	android:value
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:13-51:40
+	android:value
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:9-56:33
+	android:value
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-30
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:9-59:36
+	android:value
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:9-62:36
+	android:value
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:9-65:37
+	android:value
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-34
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:9-68:50
+	android:value
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-47
+	android:name
+		ADDED from [:unityLibrary] D:\Unity Project\UnityAndroidPackage\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-40

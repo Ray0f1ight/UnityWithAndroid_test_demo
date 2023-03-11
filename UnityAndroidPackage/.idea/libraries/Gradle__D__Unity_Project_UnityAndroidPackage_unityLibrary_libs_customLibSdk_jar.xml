@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: D./Unity Project/UnityAndroidPackage/unityLibrary/libs/customLibSdk.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unityLibrary/libs/customLibSdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+repository "UnityAddAndroid@wechat_os_qy0zpozj4d2lplxdz8eltlc6w@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
