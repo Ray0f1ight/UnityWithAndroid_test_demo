@@ -1,0 +1,3 @@
+# UnityWithAndroid_test_demo
+Unity加入android jar包打包的android项目demo
+Unity加Android jar包打包成的安卓项目，CustomLib为jar包原项目，UnityAddAndroid为Unity项目，UnityAndroidPackage为UnityAddAndroid打包成的安卓项目，为了页面交互加入了mylibrary作为安卓原生页面交互模块。
