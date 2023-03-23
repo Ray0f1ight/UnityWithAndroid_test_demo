@@ -26,8 +26,7 @@
     <content url="file://$MODULE_DIR$/../../../unityLibrary/src/testDebug" />
     <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./Unity Project/UnityAndroidPackage/unityLibrary/libs/customLibSdk.jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./Unity Project/UnityAndroidPackage/unityLibrary/libs/unity-classes.jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./AndroidProject/To Github/UnityWithAndroidTest/UnityAndroidPackage/unityLibrary/libs/customLibSdk.aar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="UnityAndroidPackage.unityLibrary.main" />
 </module>

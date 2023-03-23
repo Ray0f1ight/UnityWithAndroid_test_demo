@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Studio/jre/caches/transforms-2/files-2.1/15cf2b36a3bcfb0b4134f9b5d9d9ec39/customLibSdk/res/layout/activity_library.xml" value="0.3338541666666667" />
+        <entry key="..\:/Android Studio/jre/caches/transforms-2/files-2.1/6c94345cf6b883fbd70b89da6ce9c948/customLibSdk/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/AndroidProject/To Github/UnityWithAndroidTest/UnityAndroidPackage/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml" value="0.276" />
+        <entry key="..\:/AndroidProject/To Github/UnityWithAndroidTest/UnityAndroidPackage/mylibrary/src/main/res/layout/activity_local.xml" value="0.4479166666666667" />
+        <entry key="..\:/AndroidProject/To Github/UnityWithAndroidTest/UnityAndroidPackage/unityLibrary/src/main/res/layout/activity_main.xml" value="0.2828125" />
         <entry key="..\:/Unity Project/UnityAndroidPackage/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml" value="0.276" />
         <entry key="..\:/Unity Project/UnityAndroidPackage/mylibrary/src/main/res/layout/activity_local.xml" value="0.37864583333333335" />
       </map>

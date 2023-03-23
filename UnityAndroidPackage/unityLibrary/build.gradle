@@ -2,7 +2,8 @@ apply plugin: 'com.android.library'
 
 
 dependencies {
-    api fileTree(dir: 'libs', include: ['*.jar'])
+    api fileTree(dir: 'libs', include: ['*.jar','*.aar'])
+    implementation files("libs\\customLibSdk.aar")
 
 }
 

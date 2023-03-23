@@ -21,7 +21,7 @@
       "properties": {
         "packageId": "com.example.customlib",
         "split": "",
-        "minSdkVersion": "22"
+        "minSdkVersion": "26"
       }
     }
   ]

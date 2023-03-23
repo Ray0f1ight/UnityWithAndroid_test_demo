@@ -1,13 +1,10 @@
-#Sat Mar 11 11:38:21 GMT+08:00 2023
-path.3=classes_1.dex
+#Thu Mar 23 21:40:15 GMT+08:00 2023
 path.2=classes_0.dex
 path.1=classes.dex
 path.0=classes.dex
-renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=D\:\\Unity Project\\UnityAndroidPackage\\launcher\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_1.dex
-base.2=D\:\\Unity Project\\UnityAndroidPackage\\launcher\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_0.dex
-base.1=D\:\\Unity Project\\UnityAndroidPackage\\launcher\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
-base.0=D\:\\Unity Project\\UnityAndroidPackage\\launcher\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.2=D\:\\AndroidProject\\To Github\\UnityWithAndroidTest\\UnityAndroidPackage\\launcher\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_0.dex
+base.1=D\:\\AndroidProject\\To Github\\UnityWithAndroidTest\\UnityAndroidPackage\\launcher\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=D\:\\AndroidProject\\To Github\\UnityWithAndroidTest\\UnityAndroidPackage\\launcher\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex

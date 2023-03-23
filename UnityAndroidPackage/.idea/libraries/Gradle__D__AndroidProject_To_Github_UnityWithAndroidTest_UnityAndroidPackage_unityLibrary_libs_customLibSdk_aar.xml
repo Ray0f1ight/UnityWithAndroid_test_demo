@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: D./AndroidProject/To Github/UnityWithAndroidTest/UnityAndroidPackage/unityLibrary/libs/customLibSdk.aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/15cf2b36a3bcfb0b4134f9b5d9d9ec39/customLibSdk/jars/classes.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/15cf2b36a3bcfb0b4134f9b5d9d9ec39/customLibSdk/jars/libs/classes-2.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/15cf2b36a3bcfb0b4134f9b5d9d9ec39/customLibSdk/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/15cf2b36a3bcfb0b4134f9b5d9d9ec39/customLibSdk/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
